@@ -2,7 +2,8 @@ import type { Episode } from "./types";
 import { getEmbedUrl, getThumbnailUrl } from "./youtube";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://haya-qalbi-s8.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://ytwgc-242-a5be.vercel.app";
+
 const SITE_NAME = "Haya Qalbi Season 8 | حياة قلبي الجزء الثامن";
 
 export function getSiteUrl(): string {

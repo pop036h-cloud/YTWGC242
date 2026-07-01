@@ -12,7 +12,7 @@ export default async function AdminPage() {
   const cookieStore = await cookies();
   const isAuthenticated =
     cookieStore.get("admin_auth")?.value ===
-    (process.env.ADMIN_PASSWORD || "admin123");
+    (process.env.ADMIN_PASSWORD || "01120231410");
 
   const [episodes, analytics] = await Promise.all([
     getAllEpisodes(),
