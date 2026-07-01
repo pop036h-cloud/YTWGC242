@@ -12,6 +12,10 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL || "https://haya-qalbi-s8.vercel.app"
   ),
+  // إضافة كود التحقق هنا
+  verification: {
+    google: "gC_Iv7xA-Er5KCShoGYVy70abbTgyl13cLLD-c451i0", 
+  },
   title: {
     default:
       "Haya Qalbi Season 8 - Episode Guide & Analysis | حياة قلبي الجزء 8",
