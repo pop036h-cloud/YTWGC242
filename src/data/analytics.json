@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "timestamp": "2026-07-01T07:10:43.439Z",
+      "path": "/",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:11:01.665Z",
+      "path": "/episode/episode-1",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:11:21.834Z",
+      "path": "/",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:11:24.330Z",
+      "path": "/episode/episode-2",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:11:38.243Z",
+      "path": "/",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:14:03.229Z",
+      "path": "/",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-01T07:14:23.744Z",
+      "path": "/episode/episode-3",
+      "referrer": "direct",
+      "country": "Unknown",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    }
+  ],
+  "summary": {
+    "totalViews": 7,
+    "uniquePaths": {
+      "/": 4,
+      "/episode/episode-1": 1,
+      "/episode/episode-2": 1,
+      "/episode/episode-3": 1
+    },
+    "referrers": {
+      "Direct": 7
+    },
+    "countries": {
+      "Unknown": 7
+    },
+    "devices": {
+      "Desktop": 7
+    },
+    "dailyViews": {
+      "2026-07-01": 7
+    }
+  }
+}
